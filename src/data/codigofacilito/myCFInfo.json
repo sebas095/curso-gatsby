@@ -1,0 +1,206 @@
+{
+  "data": {
+    "email": "sebas_tian_95@hotmail.com",
+    "username": "sebas095",
+    "certificates": [
+      {
+        "score": 10,
+        "code": "57f92b8d-4d25-473a-a10a-b94d5549a777",
+        "title": "Curso Profesional de JavaScript"
+      },
+      {
+        "score": 10,
+        "code": "208883a7-0ff2-4382-bd1d-45e852396067",
+        "title": "Curso Profesional de Python"
+      }
+    ],
+    "articles": [],
+    "courses": [
+      {
+        "title": "Curso de javaScript Gratis",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/javascript"
+      },
+      {
+        "title": "Curso de PHP orientado a objetos Gratis",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/php_oo"
+      },
+      {
+        "title": "Curso de AngularJS Gratis",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/angularjs"
+      },
+      {
+        "title": "Curso de Django (2014)",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/django-2014"
+      },
+      {
+        "title": "Curso de Bootstrap 2 Gratis",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/bootstrap-2"
+      },
+      {
+        "title": "Curso para crear un Juego de Naves en HTML5",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/Naves-HTML5"
+      },
+      {
+        "title": "Curso de introducción a Wordpress Gratis",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/Wordpress"
+      },
+      {
+        "title": "Curso de Ruby Básico Gratis",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/Ruby"
+      },
+      {
+        "title": "Curso de Laravel Gratis",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/laravel"
+      },
+      {
+        "title": "Curso de Yii Framework Gratis",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/Yii"
+      },
+      {
+        "title": "Curso Visual Basic .NET Gratis",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/VB-NET"
+      },
+      {
+        "title": "Curso de Javascript y Jquery Gratis",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/jquery1"
+      },
+      {
+        "title": "Curso de jQuery Mobile Gratis",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/Jquery-mobile"
+      },
+      {
+        "title": "Curso de CodeIgniter Gratis",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/CodeIgniter"
+      },
+      {
+        "title": "Curso de Bases de Datos Gratis",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/bases_datos"
+      },
+      {
+        "title": "Curso de Programación Básico: \"Nunca he Programado\"",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/nunca"
+      },
+      {
+        "title": "Curso de Programación Orientada a Objetos con C#",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/c_sharp"
+      },
+      {
+        "title": "Curso de Introducción a JAVA Swing Gratis",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/javaswing"
+      },
+      {
+        "title": "Curso de NodeJS Gratis",
+        "progress": "57.0",
+        "url": "http://codigofacilito.com/courses/nodejs"
+      },
+      {
+        "title": "Curso de Git Gratis",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/git"
+      },
+      {
+        "title": "Curso para crear tu primera página web Gratis",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/primera_pagina"
+      },
+      {
+        "title": "Curso de Go Gratis",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/go"
+      },
+      {
+        "title": "Curso gratis de Polymer",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/polymer"
+      },
+      {
+        "title": "Curso gratis de React",
+        "progress": "94.0",
+        "url": "http://codigofacilito.com/courses/curso-gratis-de-react"
+      },
+      {
+        "title": "Curso gratis de Ruby",
+        "progress": "97.0",
+        "url": "http://codigofacilito.com/courses/ruby-2"
+      },
+      {
+        "title": "Bytes",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/15"
+      },
+      {
+        "title": "Curso gratuito de Django",
+        "progress": "100.0",
+        "url": "http://codigofacilito.com/courses/django"
+      },
+      {
+        "title": "Curso Profesional de JavaScript",
+        "progress": "100.0",
+        "url": "http://codigofacilito.com/courses/javascript-profesional"
+      },
+      {
+        "title": "JavaScript y el DOM",
+        "progress": "89.0",
+        "url": "http://codigofacilito.com/courses/javascript-dom"
+      },
+      {
+        "title": "Curso profesional de PHP",
+        "progress": "2.0",
+        "url": "http://codigofacilito.com/courses/php-profesional"
+      },
+      {
+        "title": "Pruebas unitarias con PHP",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/php-testing"
+      },
+      {
+        "title": "Curso Profesional de Python",
+        "progress": "100.0",
+        "url": "http://codigofacilito.com/courses/python-profesional"
+      },
+      {
+        "title": "Crea un sitio personal con Gatsby",
+        "progress": "53.0",
+        "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+      },
+      {
+        "title": "Curso de GraphQL con NodeJS",
+        "progress": "6.0",
+        "url": "http://codigofacilito.com/courses/graphql-nodejs"
+      }
+    ],
+    "finished_courses": [
+      {
+        "title": "Curso gratuito de Django",
+        "url": "http://codigofacilito.com/courses/django"
+      },
+      {
+        "title": "Curso Profesional de JavaScript",
+        "url": "http://codigofacilito.com/courses/javascript-profesional"
+      },
+      {
+        "title": "Curso Profesional de Python",
+        "url": "http://codigofacilito.com/courses/python-profesional"
+      }
+    ]
+  },
+  "errors": []
+}

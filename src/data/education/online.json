@@ -1,0 +1,15 @@
+{
+  "slug": "online",
+  "title": "Cursos en linea",
+  "description": "Cursos finalizados en plataformas de educación en internet",
+  "items": [
+    {
+      "name": "Curso Profesional Desarrollo Web",
+      "url": "https://codigofacilito.com/courses/frontend-profesional"
+    },
+    {
+      "name": "La Biblia de Node.js",
+      "url": "https://www.udemy.com/course/la-biblia-de-nodejs/"
+    }
+  ]
+}
