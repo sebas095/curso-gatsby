@@ -12,6 +12,11 @@
         "score": 10,
         "code": "208883a7-0ff2-4382-bd1d-45e852396067",
         "title": "Curso Profesional de Python"
+      },
+      {
+        "score": 10,
+        "code": "0c302b16-e694-40c6-9bf5-b1dbafdd8ddd",
+        "title": "Curso Profesional Desarrollo Web"
       }
     ],
     "articles": [],
@@ -178,13 +183,83 @@
       },
       {
         "title": "Crea un sitio personal con Gatsby",
-        "progress": "53.0",
+        "progress": "100.0",
         "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
       },
       {
         "title": "Curso de GraphQL con NodeJS",
         "progress": "6.0",
         "url": "http://codigofacilito.com/courses/graphql-nodejs"
+      },
+      {
+        "title": "Curso de introducción a Ruby on Rails",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/introduccion-rails"
+      },
+      {
+        "title": "Promesas en javaScript",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/javascript-promises"
+      },
+      {
+        "title": "Curso Profesional de Backend",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/backend-profesional"
+      },
+      {
+        "title": "Curso de MongoDB",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/mongodb"
+      },
+      {
+        "title": "Curso para desarrollar servicios web REST con Nodejs",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/nodejs-servicios-web"
+      },
+      {
+        "title": "Curso Profesional de Android",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/android-profesional"
+      },
+      {
+        "title": "Curso Profesional Desarrollo Web",
+        "progress": "100.0",
+        "url": "http://codigofacilito.com/courses/frontend-profesional"
+      },
+      {
+        "title": "Curso de Docker",
+        "progress": "97.0",
+        "url": "http://codigofacilito.com/courses/docker"
+      },
+      {
+        "title": "Curso a fondo de CSS",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/css"
+      },
+      {
+        "title": "Proyecto Avanzado de Desarrollo Web Frontend",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/pagina-profesional"
+      },
+      {
+        "title": "Curso de controles y efectos Frontend",
+        "progress": "73.0",
+        "url": "http://codigofacilito.com/courses/controles-efectos-frontend"
+      },
+      {
+        "title": "Curso de Patrones de Diseño con JAVA",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/patrones-diseno"
+      },
+      {
+        "title": "Curso de Introducción a Rust",
+        "progress": "100.0",
+        "url": "http://codigofacilito.com/courses/rust-introduccion"
+      },
+      {
+        "title": "Desarrollo Web con Go",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/go-web"
       }
     ],
     "finished_courses": [
@@ -199,6 +274,18 @@
       {
         "title": "Curso Profesional de Python",
         "url": "http://codigofacilito.com/courses/python-profesional"
+      },
+      {
+        "title": "Crea un sitio personal con Gatsby",
+        "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+      },
+      {
+        "title": "Curso Profesional Desarrollo Web",
+        "url": "http://codigofacilito.com/courses/frontend-profesional"
+      },
+      {
+        "title": "Curso de Introducción a Rust",
+        "url": "http://codigofacilito.com/courses/rust-introduccion"
       }
     ]
   },
